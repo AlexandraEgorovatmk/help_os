@@ -22,9 +22,9 @@
 
 | Применяемые профили | Артикул | Возможная  основа профилей |
 |----------------|:---------:|:----------|
-| рама 69 мм | 70104 |  Белая, коричневый |
-| створка 77 | 3951 |  Белая, коричневый |
-| импост 82 мм | 3921 |  Белая, коричневый |
+| Рама 69 мм | 70104 |  Белая, коричневый |
+| Створка 77 | 3951 |  Белая, коричневый |
+| Импост 82 мм | 3921 |  Белая, коричневый |
 
   | Применяемые штапики | Артикул | Стеклопакеты |
 |----------------|:---------:|:----------|
@@ -46,20 +46,15 @@
 
 **Армирование:**
 
-**Белый профиль**
-
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/portal/media/image4.png)
-Армир 30х25х1,5 рама
+Армирование рама
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/portal/media/image5.png)
-Армир 31х25х1,5 створка
+Армирмирование створка
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/portal/media/image6.png)
-Армир 38х20x1,5импост
+Армирмирование импост
 
-**Ламинированный профиль**
-
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/portal/media/image4.png)
-Армир 30х25х1,5 рама
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/portal/media/image5.png)
- Армир 31х25х2,0 створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/portal/media/image6.png)
-Армир 38х20х2,0 импост
+| Применяемые профили | Белый профиль | Ламинированный профиль|
+|----------------|:---------:|:----------|
+| Рама 69 мм | 31х25х1,5  | 30х25х1,5 |
+| Створка 77 мм  | 31х25х1,5 | 31х25х2,0 |
+| Импост 82 мм | 38x20x1,5 | 38х20х2 |
