@@ -49,11 +49,11 @@
 
 **Белый профиль**
 
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveekspert/media/image5.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveekspert/media/5.png)
 Армирование рама
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveekspert/media/image6.png)
  Армирование створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveekspert/media/image7.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveekspert/media/image7.png)
 Армирование импост
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveekspert/media/image8.png)
 Армирование штульп
