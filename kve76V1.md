@@ -49,7 +49,7 @@
 
 **Армирование:**
 
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve76V1/media/image6.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kve76V1/media/5.png)
 Армирование рама
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve76V1/media/image1.png)
 Армирование створка
