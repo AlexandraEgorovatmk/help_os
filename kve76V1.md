@@ -19,7 +19,7 @@
 | Применяемые профили | Артикул | Возможная  основа профилей |
 |----------------|:---------:|:----------|
 | рама 67 мм | 76105  |  Белая |
-| Створка 54 мм | 76209 |  Белая |
+| Створка 78 мм | 76209 |  Белая |
 | Импост 84 мм | 76304  |  Белая |
  | Штульп 66 мм | 70402 |  Белая |
 
@@ -49,24 +49,18 @@
 
 **Армирование:**
 
-**Белый профиль**
-
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve76V1/media/image6.png)
-Армир 30х30х1,5 рама
+Армирование рама
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve76V1/media/image1.png)
-Армир 30х25х1,5 створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve76V1/media/image5.png)
- Армир 38x20x1,5импост
+Армирование створка
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kve76V1/media/7.png)
+ Армирование импост
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve76V1/media/image3.png)
-Армир 32x28x1,5штульп
+Армирование штульп
 
-**Ламинированный профиль**
-
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve76V1/media/image6.png)
-Армир 30х25х2 рама
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve76V1/media/image1.png)
-Армир 30х25х2створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve76V1/media/image5.png)
-Армир 30х25х2импост
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve76V1/media/image3.png)
-Армир 30x25x2,0штульп
+| Применяемые профили | Белый профиль | Ламинированный профиль|
+|----------------|:---------:|:----------|
+| Рама 67 мм | 30х30х1,5 | 30х25х2 |
+| Створка 78 мм  | 30х25х1,5 | 30х25х2 |
+| Импост 84 мм | 38x20x1,5 | 30х25х2 |
+| Штульп 66 мм | 32x28x1,5 | 30х25х2 |
