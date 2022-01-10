@@ -32,7 +32,7 @@
 
 * * *
 
-**Сечение профилей **
+**Сечение профилей**
 
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveekspert/media/image1.png)
 Рама 3901
