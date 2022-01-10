@@ -46,11 +46,11 @@
 
 **Армирование:**
 
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/portal/media/image4.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/portal/media/5.png)
 Армирование рама
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/portal/media/image5.png)
 Армирмирование створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/portal/media/image6.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/portal/media/7.png)
 Армирмирование импост
 
 | Применяемые профили | Белый профиль | Ламинированный профиль|
