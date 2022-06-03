@@ -53,9 +53,7 @@
 
 **Армирование:**
 
-**Белый профиль**
-
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image6.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveGut58dveri/media/6.png)
 Армир 30х25х1,5 рама
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image7.png)
 Армир 40х50х1,5 створка
