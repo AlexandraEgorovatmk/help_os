@@ -40,6 +40,8 @@
 Рама 70104
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image2.png)
 Створка 70212
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kve70dveri/media/100.png)
+Створка 70213
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image3.png)
 Импост 3921
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image4.png)
