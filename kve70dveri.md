@@ -53,24 +53,18 @@
 
 **Армирование:**
 
-**Белый профиль**
-
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image6.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kve70dveri/media/6.png)
 Армир 30х25х1,5 рама
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image7.png)
 Армир 40х60х1,5 створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image8.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kve70dveri/media/10.png)
 Армир 30x25x1,5импост 
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image9.png)
 Армир 30x20x1,5штульп
 
-**Ламинированный профиль**
-
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image6.png)
-Армир 30х25х1,5 рама
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image7.png)
-Армир 40х60х2,0 створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image8.png)
- Армир 30х25х2,0 импост
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image9.png)
-Армир 30x20x1,5штульп
+| Применяемые профили | Армирование |
+|----------------|:---------:|
+| Рама 67 мм | 30х25 |
+| Створка 78 мм  | 40х60 |
+| Импост 84 мм | 38x20 |
+| Штульп 66 мм | 30х20 |
