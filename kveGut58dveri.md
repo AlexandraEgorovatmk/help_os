@@ -42,6 +42,8 @@
 Рама 806
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image2.png)
 Створка 814
+![](https://github.com/AlexandraEgorovatmk/help_os/commit/8dc1c1134e8497e44969b3cdf8f95f319ee1cb1c)
+Створка 815
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image3.png)
 Импост 337
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image4.png)
