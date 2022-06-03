@@ -64,13 +64,10 @@
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image9.png)
 Армир 30x20x1,5 штульп
 
-**Ламинированный профиль**
 
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image6.png)
-Армир 30х25х1,5 рама
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image7.png)
-Армир 40х50х1,5 створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image8.png){
- Армир 38x20x1,5 импост
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image9.png)
-Армир 30x20x1,5 штульп
+| Применяемые профили | Белый профиль | Ламинированный профиль|
+|----------------|:---------:|:----------|
+| рама 71 мм | 30х25х1,3 | 30х25х2 |
+| Створка 116 мм | 40х50х1,3 | 30х25х2 |
+| Импост 87 мм | 38х20x1,5 | 30х25х2 |
+| Штульп 65 мм | 30x20x1,5 | 30x15x1,5 |
