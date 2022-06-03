@@ -54,13 +54,13 @@
 **Армирование:**
 
 ![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveGut58dveri/media/6.png)
-Армир 30х25х1,5 рама
+рама
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image7.png)
-Армир 40х50х1,5 створка
+створка
 ![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveGut58dveri/media/100.png)
-Армир 38x20x1,5импост
+импост
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image9.png)
-Армир 30x20x1,5 штульп
+штульп
 
 | Применяемые профили | Армирование | 
 |----------------|:---------:|
