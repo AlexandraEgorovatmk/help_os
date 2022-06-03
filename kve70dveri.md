@@ -54,13 +54,13 @@
 **Армирование:**
 
 ![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kve70dveri/media/6.png)
-Армир 30х25х1,5 рама
+рама
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image7.png)
-Армир 40х60х1,5 створка
+створка
 ![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kve70dveri/media/10.png)
-Армир 30x25x1,5импост 
+импост 
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image9.png)
-Армир 30x20x1,5штульп
+штульп
 
 | Применяемые профили | Армирование |
 |----------------|:---------:|
